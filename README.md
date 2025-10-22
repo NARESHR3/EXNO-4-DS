@@ -213,7 +213,7 @@ print("Selected Features:")
 print(selected_features)
 ```
 ![Screenshot 2024-11-28 135623](https://github.com/user-attachments/assets/6ae1c1fa-eb96-4860-a82c-bd0ed9e5e2ba)
-```
-# RESULT:
+
+## RESULT:
 
 successfully completed the Feature Scaling and Selection
